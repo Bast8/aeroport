@@ -1,0 +1,41 @@
+body{
+    background-image: url("./avionquidécolle.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+
+    text-align: center;
+}
+
+#top{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    border: 4mm ridge rgba(255, 255, 255, 0.8);
+}
+
+
+#liste{
+    display: flex;
+    justify-content: space-around;
+    border: 5px rgb(255, 255, 255) solid;
+    margin: 20px;
+    padding: 20px;
+}
+
+p{
+    color: black;
+
+}
+
+a{
+    background-color: rgb(255, 255, 255);
+    }
+
+button{
+
+    margin-left: 1rem;
+}

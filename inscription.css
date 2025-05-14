@@ -1,0 +1,33 @@
+body{
+    background-image: url("./avionquidécolle.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+
+    color: white;
+}
+
+body{
+
+    background-color: blue;
+}
+
+form{
+
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);  
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: rgb(72, 137, 222)
+    
+}
+
+form{
+
+    border-radius: 50px;
+}
