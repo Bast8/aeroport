@@ -5,11 +5,16 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
 -->
 <html>
     <head>
-        <link rel="stylesheet" href="CSSindex.css" type="text/css">
+        <link rel="stylesheet" href="inscription.css" type="text/css">
         <meta charset="UTF-8">
         <title></title>
     </head>
     <body>
+
+      <br>
+      <br>
+      <br>
+      
         <a href="1erepage.php">1ere page</a>
     <form action="connexion2.php" method="post" class="form">
   <div class="form">
